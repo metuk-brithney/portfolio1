@@ -13,8 +13,9 @@ A simple personal website that presents my skills and projects as a Software eng
 ## screenshot
 ![homepage](image/homepage.png)
 ## author
-**EPIE METUK BRITHNEY NTUKE** - Software Engineering. Semester 1
+**EPIE METUK BRITHNEY NTUKE** - Aspiring Software Emgineer.
 GitHub: [@metuk-brithney](https://github.com/metuk-brithney)
 ## status
 - [x]Homepage
 - []Projects page(in progress)
+  
