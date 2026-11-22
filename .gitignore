@@ -1,0 +1,16 @@
+#secrets
+.env
+password.txt
+#operating system files
+thumbs.db
+desktop.ini
+.DS_Store
+# Dependencies and build output
+node-modules/
+_pycache_/
+dist/
+# logs and temporary files
+* .log
+* .temporary
+# ..but keep this one file
+!important.log
